@@ -1,0 +1,7 @@
+{
+	"ip_addr" : "",
+	"port" : "5432",
+	"database" : "",
+    "user":"",
+    "password":""
+}
